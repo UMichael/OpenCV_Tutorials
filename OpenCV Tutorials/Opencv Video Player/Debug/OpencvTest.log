@@ -1,0 +1,3 @@
+﻿  OpencvTest.cpp
+c:\users\michael\source\repos\opencvtest\opencvtest\opencvtest.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OpencvTest.vcxproj -> C:\Users\Michael\source\repos\OpencvTest\Debug\OpencvTest.exe
